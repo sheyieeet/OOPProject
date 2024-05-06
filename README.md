@@ -4,4 +4,4 @@ The system can be used by seller to display goods to increase accessablity, as w
 * In order for the system to function normally, modification on connecting your own data base is necessary. To do so, see connectDB() function in source code OOPfinalProject.java.
 * Source codes is stored in src folder
 * For details and demonstation of the system, see project_report.pdf
-* This project was build using NetBeam IDE to help bulild up GUI configuration
+* This project was built using NetBeam IDE to help bulild up GUI configuration
